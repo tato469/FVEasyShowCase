@@ -1,6 +1,5 @@
 //
 //  FVEasyShowCase.m
-//  Siwa
 //
 //  This software is released under the MIT License.
 //
